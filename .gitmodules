@@ -1,0 +1,9 @@
+[submodule "AD_SubTypesDataPrep"]
+	path = AD_SubTypesDataPrep
+	url = https://github.com/erikhuck/AD_SubTypesDataPrep.git
+[submodule "AD_SubTypesDataClean"]
+	path = AD_SubTypesDataClean
+	url = https://github.com/erikhuck/AD_SubTypesDataClean.git
+[submodule "AD_SubTypesML"]
+	path = AD_SubTypesML
+	url = https://github.com/erikhuck/AD_SubTypesML.git
