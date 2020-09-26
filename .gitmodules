@@ -7,3 +7,6 @@
 [submodule "AD_SubTypesDataClean"]
 	path = AD_SubTypesDataClean
 	url = https://github.com/erikhuck/AD_SubTypesDataClean.git
+[submodule "CorrelationAnalysis"]
+	path = CorrelationAnalysis
+	url = https://github.com/erikhuck/CorrelationAnalysis.git
