@@ -1,2 +1,10 @@
 *
 !.gitignore
+!med-adni
+!med-anm
+!mri-adni
+!mri-anm
+!png-adni
+!png-anm
+!raw-adni
+!raw-anm
